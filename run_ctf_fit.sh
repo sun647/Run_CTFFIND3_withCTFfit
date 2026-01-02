@@ -4,7 +4,7 @@ SCRIPT=fit_ctf_resolution.py
 PIXEL=2.5
 KV=300
 CS=2.7
-AMP=-0.10
+AMP=0.10
 THR=0.30
 
 OUT_SUMMARY=ctf_fit_resolution_all.csv

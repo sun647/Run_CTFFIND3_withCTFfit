@@ -1,6 +1,6 @@
 #!/bin/bash
 
-SCRIPT=ctffind3_fit_resolution.py
+SCRIPT=../fit_ctf_resolution.py
 PIXEL=2.5
 KV=300
 CS=2.7
